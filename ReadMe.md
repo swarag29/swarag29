@@ -1,5 +1,27 @@
-# About Me:
-I’m currently working on  <br>AI-based projects including detection systems, automation tools, and smart applications.<br><br> I’m looking to collaborate on  <br>Artificial Intelligence, Machine Learning, Python, and OpenCV projects.<br><br> I’m looking for help with  <br>Advanced deep learning models, optimization techniques, and scalable system design.<br><br> I’m currently learning  <br>Deep Learning, Model Deployment, System Design, and Advanced Python.<br><br> Ask me about  <br>Python, Machine Learning basics, AI project building, and beginner-friendly tech guidance.<br><br>Fun fact  <br>I learn best by building real projects instead of just studying theory.
+<h1 align="center">Hi 👋, I'm Swarag</h1>
+<h3 align="center">AI Developer | Python Enthusiast | Tech Support </h3>
+
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, and building smart applications that solve real problems.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I'm a student focused on AI and software development  
+- 🚀 I enjoy turning ideas into working projects and practical tools  
+- 🌱 Currently learning Deep Learning, System Design, and Model Deployment  
+- 🤝 Open to collaborating on AI, Python, and Computer Vision projects  
+- 💬 Ask me about Python, Machine Learning basics, and AI project building  
+ 
+
+---
+
+### 🧠 Current Focus
+- AI-based detection systems  
+- Automation tools  
+- Smart applications using Python  
 
 
 ## 🌐 Socials:
