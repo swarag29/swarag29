@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>AI-based projects including detection systems, automation tools, and smart applications.<br><br>👯 I’m looking to collaborate on  <br>Artificial Intelligence, Machine Learning, Python, and OpenCV projects.<br><br>🤝 I’m looking for help with  <br>Advanced deep learning models, optimization techniques, and scalable system design.<br><br>🌱 I’m currently learning  <br>Deep Learning, Model Deployment, System Design, and Advanced Python.<br><br>💬 Ask me about  <br>Python, Machine Learning basics, AI project building, and beginner-friendly tech guidance.<br><br>⚡ Fun fact  <br>I learn best by building real projects instead of just studying theory.
+# About Me:
+I’m currently working on  <br>AI-based projects including detection systems, automation tools, and smart applications.<br><br> I’m looking to collaborate on  <br>Artificial Intelligence, Machine Learning, Python, and OpenCV projects.<br><br> I’m looking for help with  <br>Advanced deep learning models, optimization techniques, and scalable system design.<br><br> I’m currently learning  <br>Deep Learning, Model Deployment, System Design, and Advanced Python.<br><br> Ask me about  <br>Python, Machine Learning basics, AI project building, and beginner-friendly tech guidance.<br><br>Fun fact  <br>I learn best by building real projects instead of just studying theory.
 
 
 ## 🌐 Socials:
